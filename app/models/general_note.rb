@@ -1,0 +1,2 @@
+class GeneralNote < Note
+end
